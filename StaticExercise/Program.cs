@@ -9,8 +9,8 @@ namespace StaticExercise
             var celsius = TempConverter.FahrenheitToCelsius(44);
             var fahrenheit = TempConverter.CelsiusToFahrenheit(44);
 
-            Console.WriteLine($"celsius {celsius}");
-            Console.WriteLine($"fahrenheit {fahrenheit}");
+            Console.WriteLine($"converted to celsius {celsius}");
+            Console.WriteLine($"converted to fahrenheit {fahrenheit}");
 
         }
     }

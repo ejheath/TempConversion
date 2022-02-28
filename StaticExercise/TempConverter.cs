@@ -13,3 +13,5 @@ namespace StaticExercise
         }
     }
 }
+
+//made necessary changes to turn in
